@@ -10,35 +10,22 @@ void CountOverBall(string str)
     {
         if(str[i] == 'O' || str[i]>=48 && str[i]<=54) count++;
     }
-    if(count%6==0)
+
+    int over = count/6;
+    int ball = count%6;
+    if(ball==0)
     {
-        if(count/6>1)
-            cout << count/6 << " OVERS";
-        else
-            cout << 1 << " OVER";
+        cout << over << (over>1?" OVERS":" OVER");
+        
+    }
+    else if(over>0)
+    {
+        cout << over << (over>1?" OVERS ":" OVER ") << ball << (ball>1?" BALLS":" BALL");
     }
     else
     {
-        if(count/6>1 && count%6>1 )
-            cout << count/6 << " OVERS " << count%6 << " BALLS";
-        else if(count/6==1)
-        {
-            if(count%6>1)
-                cout << 1 << " OVER " << count%6 << " BALLS";
-            else
-                cout << 1 << " OVER " << 1 << " BALL";
-            
-
-        }
-        else
-        {
-            if(count>1)
-                cout << count << " BALLS";
-            else
-                cout << 1 << " BALL";
-        }
-            
-    }
+        cout << ball << (ball>1?" BALLS":" BALL");
+    }   
     cout << "\n";
 }
 
