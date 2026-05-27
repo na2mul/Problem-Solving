@@ -3,3 +3,8 @@
 *.vscode
 *.exe
 *.cph
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
