@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListUsingRecursion", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortStackUsingRecursion", "SortStackUsingRecursion\SortStackUsingRecursion.csproj", "{534395F8-3D51-40AF-9F46-9994BC487C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchUsingRecursion", "BinarySearchUsingRecursion\BinarySearchUsingRecursion.csproj", "{B0D40F2A-1451-4763-80DD-5B16B7611747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{534395F8-3D51-40AF-9F46-9994BC487C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534395F8-3D51-40AF-9F46-9994BC487C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534395F8-3D51-40AF-9F46-9994BC487C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D40F2A-1451-4763-80DD-5B16B7611747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D40F2A-1451-4763-80DD-5B16B7611747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D40F2A-1451-4763-80DD-5B16B7611747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D40F2A-1451-4763-80DD-5B16B7611747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
