@@ -2,17 +2,17 @@
 {
     public class DeleteStackMiddleValue
     {
-       public void DeleteMiddleValue(Stack<int> v, int k)
+       public void DeleteMiddleValue(Stack<int> s, int k)
         {
             if(k == 1)
             {
-                v.Pop();
+                s.Pop();
                 return;
             }
-            int temp = v.First();
-            v.Pop();
-            DeleteMiddleValue(v, k - 1);
-            v.Push(temp);
+            int temp = s.First();
+            s.Pop();
+            DeleteMiddleValue(s, k - 1);
+            s.Push(temp);
         }
     }
 }
