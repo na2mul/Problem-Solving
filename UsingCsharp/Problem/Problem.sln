@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicateValueFromLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFirstOccurrenceValueFromListUsingRecursion", "DeleteFirstOccurrenceValueFromListUsingRecursion\DeleteFirstOccurrenceValueFromListUsingRecursion.csproj", "{2E0A222E-D964-473C-834B-E4311F1B9396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStackUsingRecursion", "ReverseStackUsingRecursion\ReverseStackUsingRecursion.csproj", "{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{2E0A222E-D964-473C-834B-E4311F1B9396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E0A222E-D964-473C-834B-E4311F1B9396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E0A222E-D964-473C-834B-E4311F1B9396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{C27543C8-DEB8-4FA0-8397-A2450F452BC9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{64B1E213-CD17-5B4D-3675-740AB7FE1650} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2E0A222E-D964-473C-834B-E4311F1B9396} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEDE686D-ABA8-4E56-B360-E96463F502E5}
