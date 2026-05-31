@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFirstOccurrenceValueF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStackUsingRecursion", "ReverseStackUsingRecursion\ReverseStackUsingRecursion.csproj", "{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindKthSymbolInGrammarUsingRecursion", "FindKthSymbolInGrammarUsingRecursion\FindKthSymbolInGrammarUsingRecursion.csproj", "{A637C080-52E7-4822-A152-9785769D0281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A637C080-52E7-4822-A152-9785769D0281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A637C080-52E7-4822-A152-9785769D0281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A637C080-52E7-4822-A152-9785769D0281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A637C080-52E7-4822-A152-9785769D0281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{64B1E213-CD17-5B4D-3675-740AB7FE1650} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2E0A222E-D964-473C-834B-E4311F1B9396} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{28635C09-8CC9-4FB0-B6E7-CE5074CBBECC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A637C080-52E7-4822-A152-9785769D0281} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEDE686D-ABA8-4E56-B360-E96463F502E5}
