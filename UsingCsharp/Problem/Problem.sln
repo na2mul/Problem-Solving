@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetsOfStringsUsingRecurs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueSubsetsOfStringUsingRecursion", "UniqueSubsetsOfStringUsingRecursion\UniqueSubsetsOfStringUsingRecursion.csproj", "{5E8EECA5-6A56-4DCA-AD74-23351FF9BF76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationWithSpaceUsingRecursion", "PermutationWithSpaceUsingRecursion\PermutationWithSpaceUsingRecursion.csproj", "{9990CBDA-28A9-48F2-89F1-0A87205A3397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{5E8EECA5-6A56-4DCA-AD74-23351FF9BF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E8EECA5-6A56-4DCA-AD74-23351FF9BF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E8EECA5-6A56-4DCA-AD74-23351FF9BF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9990CBDA-28A9-48F2-89F1-0A87205A3397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9990CBDA-28A9-48F2-89F1-0A87205A3397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9990CBDA-28A9-48F2-89F1-0A87205A3397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9990CBDA-28A9-48F2-89F1-0A87205A3397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{A637C080-52E7-4822-A152-9785769D0281} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C6473814-066B-46E7-A5BF-C0E3F65DE9B5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5E8EECA5-6A56-4DCA-AD74-23351FF9BF76} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9990CBDA-28A9-48F2-89F1-0A87205A3397} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEDE686D-ABA8-4E56-B360-E96463F502E5}
