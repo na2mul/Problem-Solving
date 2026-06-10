@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumOfSubArrayOfKthSize",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCasePermutationUsingRecursion", "LetterCasePermutationUsingRecursion\LetterCasePermutationUsingRecursion.csproj", "{1F968790-DA39-49BE-9746-B00B8F6AF16E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HightOfBinaryTreeUsingRecursion", "HightOfBinaryTreeUsingRecursion\HightOfBinaryTreeUsingRecursion.csproj", "{6D0D6449-A644-4F89-A71E-ADA3BD638E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeightOfBinaryTreeUsingRecursion", "HeightOfBinaryTreeUsingRecursion\HeightOfBinaryTreeUsingRecursion.csproj", "{A62341C3-8F99-F21D-B337-80352883A321}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,14 @@ Global
 		{1F968790-DA39-49BE-9746-B00B8F6AF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F968790-DA39-49BE-9746-B00B8F6AF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F968790-DA39-49BE-9746-B00B8F6AF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0D6449-A644-4F89-A71E-ADA3BD638E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0D6449-A644-4F89-A71E-ADA3BD638E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0D6449-A644-4F89-A71E-ADA3BD638E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0D6449-A644-4F89-A71E-ADA3BD638E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62341C3-8F99-F21D-B337-80352883A321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62341C3-8F99-F21D-B337-80352883A321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62341C3-8F99-F21D-B337-80352883A321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62341C3-8F99-F21D-B337-80352883A321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +135,8 @@ Global
 		{E96F26B4-AA3C-4D4F-B74D-C01DCE91468A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{B3AF82F6-A0FD-4A4D-BE27-A009F1D89053} = {536D68FF-AEE8-431A-A0AD-CA356EF356F4}
 		{1F968790-DA39-49BE-9746-B00B8F6AF16E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6D0D6449-A644-4F89-A71E-ADA3BD638E3C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A62341C3-8F99-F21D-B337-80352883A321} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CEDE686D-ABA8-4E56-B360-E96463F502E5}
